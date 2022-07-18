@@ -1,8 +1,7 @@
 body {
-    margin: 0;
-    /* background-image: url("../images/technologis.png"); */
-    background-repeat: no-repeat;
-    background-size: 100px 720px;
+    background-size: auto;
+    background-image: url("../images/technogies1.jpg");
+    
 }
 
 .container {
@@ -45,6 +44,7 @@ input[type="text"], input[type="password"] {
 }
 
 .btn-login {
+    border-radius: 5px;
     padding: 15px 25px;
     border: none;
     background-color: #27ae60;
