@@ -1,6 +1,6 @@
 body {
     background-size: auto;
-    background-image: url("../images/technogies1.jpg");
+    background-image: url("../images/technologis.png");
     
 }
 
@@ -9,14 +9,16 @@ body {
     height: 500px;
     text-align: center;
     margin: 0 auto;
-    background-color: rgba(44, 62, 80, 0.7);
+    background-color: rgba(44, 62, 80, 0.3);
     margin-top: 160px;
+    border-radius: 5px;
 }
 
 .container img {
     width: 150px;
     height: 150px;
     margin-top: -60px;
+    border-radius: 10px;
 }
 
 input[type="text"], input[type="password"] {
@@ -27,6 +29,7 @@ input[type="text"], input[type="password"] {
     margin-bottom: 20px;
     background-color: #fff;
     padding-left: 40px;
+    border-radius: 10px;
 }
 
 .form-input::before {
