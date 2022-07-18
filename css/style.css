@@ -18,8 +18,12 @@ body {
     width: 150px;
     height: 150px;
     margin-top: -60px;
-    border-radius: 10px;
+    border-radius: 10px;   
 }
+
+img:hover {
+    background-color: peru;
+  }
 
 input[type="text"], input[type="password"] {
     margin-top: 30px;
